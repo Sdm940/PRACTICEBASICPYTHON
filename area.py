@@ -1,0 +1,5 @@
+a=int(input("ENTER THE FIRST NUMBER:"))
+b=int(input("ENTER THE SECOND NUMBER:"))
+c=int(input("ENTER THE THIRD NUMBER:"))
+area=0.5*(a+b+c)
+print("THE AREA OF THE TRIANGLE IS:",area)
